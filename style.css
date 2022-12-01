@@ -1,0 +1,36 @@
+body
+{
+    background-color: rgb(216, 245, 242);
+    /*opacity:inherit;*/
+}
+
+.foodPic
+{
+    width: 400px;
+    height: auto;
+}
+
+.foodDesc
+{
+    width: 500px; 
+    padding-left: 5px;   
+}
+
+.foodPage
+{
+    margin-left: 2%;
+    margin-right: 2%;    
+}
+
+.foodPage h2 
+{
+    background-color: aquamarine;
+    font-size: 28px;
+    border-radius: 5px;
+    padding-left: 5px;
+}
+
+.foodPage ul, .foodPage ol
+{
+    align-items: center;
+}
